@@ -1,36 +1,43 @@
 
 # Hi there, I'm Shams 👋
 
-Welcome to my GitHub! I am a Data Engineer with a strong background in data ingestion and processing technologies.
+Welcome to my GitHub! I am a AI/ML Engineer with a strong background in data ingestion and processing technologies.
 
 ---
 
 ## 🎓 About Me
 
 - **Masters in IT (with Distinction)**: I have completed my Master's degree in Information Technology with distinction, specializing in data engineering and analytics.
-- **Role**: Data Ingestion Engineer
-- **Technologies I Know**:  
-  - **Data Processing**: Sqoop, Hive, Kafka  
-  - **Storage and Management**: HDFS, GCP  
-  - **Data Pipeline Tools**: Flume  
-- I work primarily with large-scale data systems, focusing on seamless data ingestion and integration across platforms.
+- **Role**: AI/ML Engineer | Data Architect | Cloud AI Solutions Developer
+
 
 ---
 
 ## 🚀 Skills & Technologies
 
-- **Data Ingestion & ETL**: Sqoop, Flume, Kafka
-- **Data Warehousing**: Hive
-- **Big Data**: HDFS, GCP (Google Cloud Platform)
-- **Programming**: Python, SQL
-- **Cloud Computing**: GCP (Google Cloud Platform)
+- **Methodologies**: SDLC, Agile/Scrum, Waterfall
+- **Programming Languages**: Python, R, Java, and C++
+- **Deep Learning**: CNNs, RNNs, LSTMs
+- **Data Manipulation**: Pandas, NumPy
+- **Big Data Technologies**: Hadoop, Spark, Apache Kafka
+- **Natural Language Processing (NLP)**: NLTK, SpaCy, BERT, GPT-3, Transformer models
+- **Cloud Platforms**: Amazon Web Services (AWS), Microsoft Azure, Google Cloud Platform (GCP)
+- **Model Deployment**: Docker, Kubernetes, TensorFlow Serving
+- **Version Control and Development Tools**: Git, JIRA, Jenkins
+- **Statistics and Mathematical Modelling**: Statistical analysis, probability, algorithm development 
 
 ---
 
 ## 🌱 Current Focus
 
-I am currently exploring new trends in **Data Engineering** such as **Real-Time Data Streaming** with Kafka, **Big Data Management** on **GCP**, and **Cloud Data Pipelines**.
-
+I am currently exploring 
+- Advancing expertise in Generative AI technologies (RAG, LangChain, LLM Fine-Tuning)
+- Building scalable AI/ML pipelines on Azure and AWS
+- Enhancing time-series forecasting models for real-world production environments
+- Developing retrieval-augmented systems using Vector Databases and Transformer models
+- Improving cloud-native AI deployments with Docker, Kubernetes, and Terraform
+- Strengthening MLOps practices for efficient CI/CD in AI model delivery
+- Exploring the future of Explainable AI (XAI) and AI Governance frameworks
 ---
 
 ## 📈 Let's Connect!
