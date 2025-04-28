@@ -1,13 +1,13 @@
 
 # Hi there, I'm Shams 👋
 
-Welcome to my GitHub! I am a AI/ML Engineer with a strong background in data ingestion and processing technologies.
+Welcome to my GitHub! I am a AI/ML Engineer with a strong background in Developing advanced AI/ML models, Natural Language Processing, Designing scalable data architectures, Containerization and orchestration, CI/CD automation, Business insights visualization.
 
 ---
 
 ## 🎓 About Me
 
-- **Masters in IT (with Distinction)**: I have completed my Master's degree in Information Technology with distinction, specializing in data engineering and analytics.
+- **Masters in IT (with Distinction)**: I have completed my Master's degree in Information Technology with distinction, specializing in AI/ML engineering and analytics.
 - **Role**: AI/ML Engineer | Data Architect | Cloud AI Solutions Developer
 
 
