@@ -44,7 +44,7 @@ I am currently exploring
 
 Feel free to explore my repositories, check out my work, or get in touch with me.
 
-- [LinkedIn](www.linkedin.com/in/shams-syed)
+- [LinkedIn](https://www.linkedin.com/in/shams-syed/)
 
 - [Email](syedshams9767@gmail.com)
 
