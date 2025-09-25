@@ -46,7 +46,7 @@ Feel free to explore my repositories, check out my work, or get in touch with me
 
 - [LinkedIn](https://www.linkedin.com/in/shams-syed/)
 
-- [Email](syedshams9767@gmail.com)
+- [Email](shams.syed0525@gmail.com)
 
 - [Website](https://shamsportfolio.s3.us-east-1.amazonaws.com/index.html)
 
