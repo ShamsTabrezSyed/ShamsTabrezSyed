@@ -44,9 +44,11 @@ I am currently exploring
 
 Feel free to explore my repositories, check out my work, or get in touch with me.
 
-- [LinkedIn](www.linkedin.com/in/shams-tabrez-syed)
+- [LinkedIn](www.linkedin.com/in/shams-syed)
 
 - [Email](syedshams9767@gmail.com)
+
+- [Website](https://shamsportfolio.s3.us-east-1.amazonaws.com/index.html)
 
 ---
 
